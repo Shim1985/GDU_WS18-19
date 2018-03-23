@@ -2,7 +2,7 @@
 
 Download Page: [link](https://moduscreate.com/blog/editing-markdown-for-github/)
 
-![arduino.png](resources/BCC69BDECD4A24C25DF485961D13F22A.png =254x181)
+![arduino.png](resources/BCC69BDECD4A24C25DF485961D13F22A.png )
 
 ---
 ## 설치방법
