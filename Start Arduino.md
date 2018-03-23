@@ -2,7 +2,7 @@
 
 Download Page: [link](https://moduscreate.com/blog/editing-markdown-for-github/)
 
-![arduino.png](resources/BCC69BDECD4A24C25DF485961D13F22A.png )
+![arduino.png](resources/BCC69BDECD4A24C25DF485961D13F22A.png =254x181)
 
 ---
 ## 설치방법
@@ -17,6 +17,18 @@ ___
 
 ### code
 복사 붙여넣기 하세요.
+
+___
+
+### 이미지로 링크 복사하기
+
+
+[Tutorial Link](https://stackoverflow.com/questions/14192709/is-it-possible-to-embed-youtube-vimeo-videos-in-markdown-using-a-c-sharp-markdow/29862668#29862668)
+
+![스크린샷 2018-03-23 21.48.37.png](resources/80C93DA880B8A1D1C00ACEC6514ECCB9.png =739x492)
+
+___
+
 
 ```
 #include <AFMotor.h>
